@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:05-11-2024
+# Date:17-10-2024
 # NAME: EZHIL NEVEDHA.K
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
@@ -57,7 +57,7 @@ void yyerror(const char *s) {
 }
 ```
 # OUTPUT:
-![379675016-5b9fae75-2e62-4afa-997e-38e31c45ddb1](https://github.com/user-attachments/assets/3fe63907-db9b-4f50-9213-09a3061669ec)
+![385582124-e032a348-fc55-4569-a61c-e9a4ae3db01d](https://github.com/user-attachments/assets/7b08b281-4c7a-4fb1-8e77-44c9081e8813)
 
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
